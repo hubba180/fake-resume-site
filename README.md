@@ -15,7 +15,7 @@ _An exercise to learn about using span and div tags to style with CSS._
 
 ## Technologies Used
 
-HTML
+HTML  
 CSS
 
 ## Legal
