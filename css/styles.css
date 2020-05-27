@@ -1,0 +1,23 @@
+.education {
+  color: green;
+  font-family: Impact
+}
+
+.work-experience {
+  color: red;
+  font-family: 'Trebuchet MS'
+}
+
+.skills {
+  color: blue;
+  font-family
+}
+
+.emphazise {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+h1 {
+  text-align: center;
+}
